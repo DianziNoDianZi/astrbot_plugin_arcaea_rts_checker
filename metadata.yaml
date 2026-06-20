@@ -1,10 +1,10 @@
 name: astrbot_plugin_arcaea
-desc: Arcaea 查分插件，支持 best30 合成图、recent、info、bind 等功能
+desc: 基于 Lost-MSth/Arcaea-server 的 AstrBot 查分插件，支持 Best30 曲绘合成图、Recent 最近游玩、Info 玩家信息等全部指令
 display_name: Arcaea 查分
-short_desc: Best30 曲绘合成图 + 最近游玩 + 曲目信息查询
-author: AstrBot Community
-version: 1.0.0
-repo: https://github.com/AstrBotDevs/astrbot_plugin_arcaea
+short_desc: Best30 曲绘合成图 + Recent 最近游玩 + 曲目最高分查询
+author: DianziNoDianZi
+version: 1.1.0
+repo: https://github.com/DianziNoDianZi/astrbot_plugin_arcaea_rts_checker
 astrbot_version: ">=4.0,<5"
 support_platforms:
   - aiocqhttp
